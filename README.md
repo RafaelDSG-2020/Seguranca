@@ -1,6 +1,4 @@
 
----
-
 # Projeto de Segurança em Sistemas de Informação
 
 Este repositório, intitulado "Seguranca", é dedicado ao estudo e implementação de práticas de segurança em sistemas de informação. O projeto inclui exemplos práticos, tutoriais e recursos educacionais focados em aspectos críticos da segurança da informação, como criptografia, autenticação, e proteção de dados.
